@@ -35,8 +35,8 @@ migros-sustainability-analysis/
 Aşağıdaki adımları takip ederek projeyi kendi yerel ortamınızda çalıştırabilirsiniz:
 
 1. **Projeyi bilgisayarınıza klonlayın:**
-   ```bash
-   git clone [https://github.com/GorkemKutukculer/migros-sustainability-analysis.git](https://github.com/GorkemKutukculer/migros-sustainability-analysis.git)
+```bash
+git clone [https://github.com/GorkemKutukculer/migros-sustainability-analysis.git](https://github.com/GorkemKutukculer/migros-sustainability-analysis.git)
 
 2. **Proje dizinine gidin:**
 
